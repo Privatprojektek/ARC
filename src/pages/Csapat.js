@@ -106,7 +106,7 @@ export default function Csapat() {
                             <Carousel.Item key={kep.id}>
                                 <img
                                     className="d-block w-100"
-                                    src={process.env.PUBLIC_URL + kep.src}
+                                    src={kep.src}
                                     alt={kep.cim}
                                 />
                                 <Carousel.Caption>

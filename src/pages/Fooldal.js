@@ -38,7 +38,7 @@ const Fooldal = () => {
                 </div>
                 <div className="summary-image alul">
 
-                  <img src={process.env.PUBLIC_URL+"/kepek/bg2.jpg"} alt="Kép leírása" style={{ maxWidth: '600px', width: '100%', height: 'auto' }} />
+                  <img src={"/kepek/bg2.jpg"} alt="Kép leírása" style={{ maxWidth: '600px', width: '100%', height: 'auto' }} />
                 </div>
               </div>
 
@@ -57,7 +57,7 @@ const Fooldal = () => {
                 </div>
                 <div className="summary-image left alul">
 
-                  <img src={process.env.PUBLIC_URL+"/kepek/bg3.jpg"} alt="Kép leírása" style={{ maxWidth: '600px', width: '100%' }} />
+                  <img src={"/kepek/bg3.jpg"} alt="Kép leírása" style={{ maxWidth: '600px', width: '100%' }} />
                 </div>
               </div>
 
@@ -74,7 +74,7 @@ const Fooldal = () => {
                 </div>
                 <div className="summary-image alul">
 
-                  <img src={process.env.PUBLIC_URL+"/kepek/bg.jpg"} alt="Kép leírása" style={{ maxWidth: '600px', width: '100%' }} />
+                  <img src={"/kepek/bg.jpg"} alt="Kép leírása" style={{ maxWidth: '600px', width: '100%' }} />
                 </div>
               </div>
             </div>

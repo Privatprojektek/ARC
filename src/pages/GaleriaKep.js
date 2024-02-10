@@ -3,7 +3,7 @@ export default function GaleriaKep(props) {
   
     return (
       <div className="kep">
-        <img src={process.env.PUBLIC_URL+props.obj.src} alt="" className="img-fluid galeria-kep"  style={{
+        <img src={props.obj.src} alt="" className="img-fluid galeria-kep"  style={{
           width: '70%',
           height: '100%',
           objectFit: 'cover',

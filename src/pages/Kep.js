@@ -6,7 +6,7 @@ export default function Kep(props) {
 
   return (
     <div className="kep">
-      <img src={process.env.PUBLIC_URL+props.obj.src} alt="" className="img-fluid galeria-kep" onClick={kattintas} style={{
+      <img src={props.obj.src} alt="" className="img-fluid galeria-kep" onClick={kattintas} style={{
         width: '70%',
         height: '100%',
         objectFit: 'cover',
