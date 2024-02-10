@@ -1,7 +1,7 @@
 # ARC projekt frontend terv
 
 Pages link:
-https://privatprojektek.github.io/arc/
+https://privatprojektek.github.io/ARC/
 
 ## REACT projekt buildelés lépései.
 
