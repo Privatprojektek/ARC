@@ -98,7 +98,7 @@ export default function Csapat() {
                     </p>
                 </div>
                 <h3 style={{ textAlign: "justify" }}>
-                    Képek a Csapatmunkájáról:{" "}
+                    Képek a Csapat munkájáról:{" "}
                 </h3>
                 <div className="mt-5 d-flex justify-content-center">
                     <Carousel style={{ width: "60%" }}>

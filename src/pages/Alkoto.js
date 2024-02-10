@@ -26,7 +26,7 @@ export default function Alkoto() {
             <div style={{ display: "flex", flex: "1" }} className="adatok">
               <div className="alk_div" style={{ marginRight: "20px", flex: "0 0 auto" }} > 
                 <img
-                  src={"/kepek/legolas.jpg"}
+                  src={"kepek/legolas.jpg"}
                   alt="a kep alt-ja ha nem tolt be"
                   style={{
                     maxWidth: "200px",
