@@ -5,6 +5,8 @@ https://privatprojektek.github.io/ARC/
 
 ## REACT projekt buildelés lépései.
 
+0. BrowserRouter helyett használd a HashRouter - t!
+
 1.  Telepítsd gh-pages package-et a projektedbe - ez a package a buildelés során létrehoz egy új gh-pages branch-en egy build mappát. Ide készíti el a react alkalmazás egy optimalizált JS-re fordított változatát. Majd felpusholja a githubra.
 
         npm install gh-pages --save-dev

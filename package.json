@@ -1,6 +1,6 @@
 {
     "name": "arc",
-    "homepage": "https://privatprojektek.github.io/ARC/",
+    "homepage": "https://privatprojektek.github.io/arc/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
