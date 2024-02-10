@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ARC/static/css/main.b1d7ec7b.css",
-    "main.js": "/ARC/static/js/main.42dfee1d.js",
+    "main.js": "/ARC/static/js/main.07dde003.js",
     "static/js/592.7bdd1d70.chunk.js": "/ARC/static/js/592.7bdd1d70.chunk.js",
     "index.html": "/ARC/index.html",
     "main.b1d7ec7b.css.map": "/ARC/static/css/main.b1d7ec7b.css.map",
-    "main.42dfee1d.js.map": "/ARC/static/js/main.42dfee1d.js.map",
+    "main.07dde003.js.map": "/ARC/static/js/main.07dde003.js.map",
     "592.7bdd1d70.chunk.js.map": "/ARC/static/js/592.7bdd1d70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.42dfee1d.js"
+    "static/js/main.07dde003.js"
   ]
 }
